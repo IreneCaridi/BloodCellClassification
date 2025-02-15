@@ -13,5 +13,5 @@ Madapenguins – code – inside this folder you will find two folders:
   - 2 files about ResNet50 - starting codes about our final model.
   - 3 files about the other pretrained models we considered.
 -	Final model folder – containing 1 folder: Preprocessing folder – containing 2 files about the preprocessing of our final model:
-  - Dataset_investigation.ipynb (preprocessing part 1) – first dataset analysis
-  - Outlier detection (preprocessing parte 2) – removing duplicates and outliers
+    - Dataset_investigation.ipynb (preprocessing part 1) – first dataset analysis
+    - Outlier detection (preprocessing parte 2) – removing duplicates and outliers
