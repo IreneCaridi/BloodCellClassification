@@ -2,7 +2,7 @@ FOLDER GUIDE
 
 Madapenguins – code – inside this folder you will find two folders:
 
--	ResNet50 – Final Model.ipynb is the code about our final best model which gave us 0.51 score on Codabench platform.
+-	ResNet50 – Final Model.ipynb is the code about our final best model.
 -	Other attempts folder – containing 11 files:
     - Bigger Augmentation Attempt - InceptionV3.ipynb is the file about the 6.1 section of our report.
     - 5 files about MiniCNNs – section 6.2 of our report.
